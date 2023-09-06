@@ -1,0 +1,3 @@
+<Library_ID_1>,</path/to/cellranger/<Library_ID_1>/outs/filtered_feature_bc_matrix/>,</path/<Library_ID_1>_scrublet_doublets.csv
+<Library_ID_2>,</path/to/cellranger/<Library_ID_2>/outs/filtered_feature_bc_matrix/>,</path/<Library_ID_2>_scrublet_doublets.csv
+<Library_ID_3>,</path/to/cellranger/<Library_ID_3>/outs/filtered_feature_bc_matrix/>,</path/<Library_ID_3>_scrublet_doublets.csv

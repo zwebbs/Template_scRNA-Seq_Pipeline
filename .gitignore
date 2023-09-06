@@ -1,0 +1,6 @@
+*.err
+*.out
+logs/*
+data/*
+results/*
+
